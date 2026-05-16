@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kadte-paro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Kadte Paro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kadte-paro/) |
+| **Get License** | [Get a Licensing Quote for Kadte Paro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kadte-paro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `92449ed24d7e05a3ae34f444d0b81615246e8965fc1a9f267ace64c160530489` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kadte Paro
+
+This log tracks the cryptographic history and versioning for the song **Kadte Paro** (kadte-paro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T08:06:40.419766 | `v1` | `92449ed24d7e05a3ae34f444d0b81615246e8965fc1a9f267ace64c160530489` | `d419ac6972e77237556fce924d63f4a22d73c340c290ae07adc5bb89f7626a1e` | `2026-05-16_kadte-paro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
