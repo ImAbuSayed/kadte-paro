@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> হারিয়ে যাওয়া কোনো এক বৃষ্টি রাতে
+> একা একা তুমি যদি কাঁদতে পারো
+> রেখেছি হাত আমি তোমার হাতে
+> চাইলে আমাকে তুমি বাঁধতে পারো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
